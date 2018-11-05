@@ -105,6 +105,13 @@
   dates: "December 6-7, 2018"
   url: http://www.qaistc.com/2018/
   twitter: QAISTC
+  
+- name: CukenSpace Charlotte 2018
+  location: Charlotte NC, US
+  dates: "December 12-13, 2018"
+  url: https://cucumber.io/events/2018/12/12/cukenspace-charlotte
+  twitter: cucumberbdd
+  status: Registration is Open
 
 - name: Software Quality Days 2019
   location: Vienna, Austria
